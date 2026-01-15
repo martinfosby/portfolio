@@ -1,7 +1,3 @@
-# Portfolio
-
-
-
 ### Academic Projects
 
 - **Bachelor Thesis** **(Grade: B)**
