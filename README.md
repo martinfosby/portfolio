@@ -8,6 +8,8 @@
   - Built a phone call transcription system using NB-Whisper, deployed in a secure cloud environment.  
   - Designed and implemented structured metadata extraction (e.g., contact method, phone number, employee ID).  
   - Ensured secure storage and privacy compliance for internal use in a municipal setting.
+   - [View full thesis report (PDF)](https://martinfosby.github.io/portfolio/files/Sluttrapport.pdf)
+
 
 
 - **Web Application & Database Project:**
