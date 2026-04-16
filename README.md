@@ -84,7 +84,7 @@
   - **Demo:** https://www.youtube.com/watch?v=7l8aPGdUym0
 
 
-### Personal Projects
+### On Hold
 
 - **Dating Site (Work in Progress)**  
   Building a decentralized dating platform on the ICP blockchain using the Vibe coding tool *Caffeine.ai*. Developed with **React**, **TypeScript**, **CSS**, and **HTML**.  
