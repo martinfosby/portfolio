@@ -3,23 +3,23 @@
 - **Bachelor Thesis** **(Grade: B)**
   Developed a cloud-based system for transcription, Retrieval-Augmented Generation (RAG) classification, and error suggestion in a public-sector context.
 
-- Designed and implemented a RAG pipeline to classify incoming reports and suggest corrections for identified errors submitted via phone or web forms.  
-- Built a cloud-based telephony system for receiving and handling error reports.  
-- Developed a transcription pipeline using NB-Whisper, deployed in a secure cloud environment.  
-- Implemented structured metadata extraction (e.g., contact method, phone number, employee ID) from transcribed data.  
-- Ensured secure data storage and compliance with privacy requirements for municipal use.  
-- Took primary responsibility for the transcription and telephony components of the system.  
+  - Designed and implemented a RAG pipeline to classify incoming reports and suggest corrections for identified errors submitted via phone or web forms.  
+  - Built a cloud-based telephony system for receiving and handling error reports.  
+  - Developed a transcription pipeline using NB-Whisper, deployed in a secure cloud environment.  
+  - Implemented structured metadata extraction (e.g., contact method, phone number, employee ID) from transcribed data.  
+  - Ensured secure data storage and compliance with privacy requirements for municipal use.  
+  - Took primary responsibility for the transcription and telephony components of the system.  
 
-Resources
-- [Full thesis report (PDF)](https://github.com/martinfosby/portfolio/blob/main/Sluttrapport.pdf)  
-- Related projects:  
-  - https://github.com/martinfosby/transcriber-container  
-  - https://github.com/martinfosby/feilmelding-web-phone-app  
-  - https://github.com/martinfosby/acs_phone_service  
-  - https://github.com/martinfosby/aci-transkribering-t-bachelor2025  
-  - https://github.com/martinfosby/nb-whisper  
-
-*Note: RAG implementation code is in a private repository and available upon request.*
+  Resources
+  - [Full thesis report (PDF)](https://github.com/martinfosby/portfolio/blob/main/Sluttrapport.pdf)  
+  - Related projects:  
+    - https://github.com/martinfosby/transcriber-container  
+    - https://github.com/martinfosby/feilmelding-web-phone-app  
+    - https://github.com/martinfosby/acs_phone_service  
+    - https://github.com/martinfosby/aci-transkribering-t-bachelor2025  
+    - https://github.com/martinfosby/nb-whisper  
+  
+  *Note: RAG implementation code is in a private repository and available upon request.*
 
 
 
