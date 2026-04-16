@@ -21,8 +21,7 @@
     - [ACI Transcription Deployment](https://github.com/martinfosby/aci-transkribering-t-bachelor2025)  
     - [NB-Whisper Integration](https://github.com/martinfosby/nb-whisper)  
   
-  *Note: RAG implementation code is in a private repository and available upon request.*
-
+    *Note: Contributed to the RAG implementation in a private repository (collaborator role). Details and access available upon request.*
 
 
 - **Web Application & Database Project:**
