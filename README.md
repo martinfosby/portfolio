@@ -80,6 +80,7 @@
     - Scanning of barcodes.
     - Local storage of scanned item data using SQLite.
     - User interface to view and manage the list of scanned food items.
+  - *Developed as an academic project. Further development may be considered in the future.*
   - **Project Repository**: [https://github.com/martinfosby/FoodGuard](https://github.com/martinfosby/FoodGuard)
   - **Demo:** https://www.youtube.com/watch?v=7l8aPGdUym0
 
