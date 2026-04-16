@@ -85,6 +85,7 @@
 
 
 ### On Hold
+Projects I’ve started ideating or prototyping but am not actively developing at the moment.
 
 - **Dating Site (Work in Progress)**  
   Building a decentralized dating platform on the ICP blockchain using the Vibe coding tool *Caffeine.ai*. Developed with **React**, **TypeScript**, **CSS**, and **HTML**.  
