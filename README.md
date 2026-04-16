@@ -14,12 +14,12 @@
 
   Resources
   - [Full thesis report (PDF)](https://github.com/martinfosby/portfolio/blob/main/Sluttrapport.pdf)  
-  - Related projects:  
-    - https://github.com/martinfosby/transcriber-container  
-    - https://github.com/martinfosby/feilmelding-web-phone-app  
-    - https://github.com/martinfosby/acs_phone_service  
-    - https://github.com/martinfosby/aci-transkribering-t-bachelor2025  
-    - https://github.com/martinfosby/nb-whisper  
+  - Related Projects
+    - [Transcriber Container](https://github.com/martinfosby/transcriber-container)  
+    - [Error Reporting Web & Phone App](https://github.com/martinfosby/feilmelding-web-phone-app)  
+    - [ACS Phone Service](https://github.com/martinfosby/acs_phone_service)  
+    - [ACI Transcription Deployment](https://github.com/martinfosby/aci-transkribering-t-bachelor2025)  
+    - [NB-Whisper Integration](https://github.com/martinfosby/nb-whisper)  
   
   *Note: RAG implementation code is in a private repository and available upon request.*
 
