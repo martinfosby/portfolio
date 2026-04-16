@@ -10,7 +10,7 @@
 - Ensured secure data storage and compliance with privacy requirements for municipal use.  
 - Took primary responsibility for the transcription and telephony components of the system.  
 
-### Resources
+Resources
 - [Full thesis report (PDF)](https://github.com/martinfosby/portfolio/blob/main/Sluttrapport.pdf)  
 - Related projects:  
   - https://github.com/martinfosby/transcriber-container  
