@@ -1,4 +1,4 @@
-# Martin Johan Holand Fosby Portfolio
+# Martin Johan Holand Fosby - Portfolio
 
 ### Academic Projects
 
