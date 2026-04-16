@@ -1,4 +1,4 @@
-# Martin Johan Holand Fosby
+## Martin Johan Holand Fosby
 
 ### Academic Projects
 
