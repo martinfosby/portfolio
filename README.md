@@ -5,7 +5,7 @@
 - **Bachelor Thesis** **(Grade: B)**
   Developed a cloud-based system for transcription, Retrieval-Augmented Generation (RAG) classification, and error suggestion in a public-sector context.
 
-  - Designed and implemented a RAG pipeline to classify incoming reports and suggest corrections for identified errors submitted via phone or web forms.  
+  - Helped design and implement a RAG pipeline to classify incoming reports and suggest corrections for identified errors submitted via phone or web forms.  
   - Built a cloud-based telephony system for receiving and handling error reports.  
   - Developed a transcription pipeline using NB-Whisper, deployed in a secure cloud environment.  
   - Implemented structured metadata extraction (e.g., contact method, phone number, employee ID) from transcribed data.  
