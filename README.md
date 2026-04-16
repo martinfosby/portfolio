@@ -19,7 +19,13 @@
     - [Error Reporting Web & Phone App](https://github.com/martinfosby/feilmelding-web-phone-app)  
     - [ACS Phone Service](https://github.com/martinfosby/acs_phone_service)  
     - [ACI Transcription Deployment](https://github.com/martinfosby/aci-transkribering-t-bachelor2025)  
-    - [NB-Whisper Integration](https://github.com/martinfosby/nb-whisper)  
+    - [NB-Whisper Integration](https://github.com/martinfosby/nb-whisper)
+    - The following repositories are private and not fully cleaned for public release. They are part of the function apps developed for the solution:
+      - [transkribering-t-bachelor2025](https://github.com/martinfosby/transkribering-t-bachelor2025)  
+      - [skjemahtml-t-bachelor2025](https://github.com/martinfosby/skjemahtml-t-bachelor2025)  
+      - [skjema-t-bachelor2025](https://github.com/martinfosby/skjema-t-bachelor2025)  
+
+      *Access can be provided upon request.*
   
     *Note: Contributed to the RAG implementation in a private repository (collaborator role). Details and access available upon request.*
 
