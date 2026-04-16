@@ -80,6 +80,10 @@
 
 
 ### Personal Projects
-- **Dating Site**  
-  Built on the ICP blockchain using the Vibe coding tool *Caffeine.ai*. Developed with **React**, **TypeScript**, **CSS**, and **HTML**.  
+
+- **Dating Site (Work in Progress)**  
+  Building a decentralized dating platform on the ICP blockchain using the Vibe coding tool *Caffeine.ai*. Developed with **React**, **TypeScript**, **CSS**, and **HTML**.  
   Live demo: [https://serene-xfu.caffeine.xyz/](https://serene-xfu.caffeine.xyz/)
+
+- **Private Cryptocurrency (Work in Progress)**  
+  Currently developing a private cryptocurrency on the ICP blockchain with help of vibe coding tool *Caffeine.ai*, focusing on core functionality, token logic, and system design.
